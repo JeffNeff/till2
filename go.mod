@@ -1,4 +1,4 @@
-module til
+module github.com/JeffNeff/till2
 
 go 1.17
 
